@@ -8,27 +8,27 @@ export const projects = [
         link: "https://facial-recognition-app-react.herokuapp.com/"
     },
     {
-        title: "React Tracks",
-        subtitle: "React and Python",
+        title: "Artist Website",
+        subtitle: "HTML, CSS",
         description:
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./project-2.gif",
-        link: "https://reedbarger.com",
+        image: "./assets/AnchoressWebSite.jpg",
+        link: "https://anchoress.ca",
       },
       {
-        title: "DevChat",
-        subtitle: "React and Firebase",
+        title: "Robofriends",
+        subtitle: "React / Redux",
         description:
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./project-3.gif",
-        link: "https://jsbootcamp.com",
+        image: "./assets/RobofriendsApp.jpg",
+        link: "https://github.com/robalobadob/robofriends/issues",
       },
       {
-        title: "Epic Todo App",
-        subtitle: "React Hooks",
+        title: "Client Website",
+        subtitle: "Bootstrap 5, SCSS",
         description:
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
         image: "./project-4.gif",
-        link: "https://pythonbootcamp.com",
+        link: "https://gardenns.com",
       }
 ];
