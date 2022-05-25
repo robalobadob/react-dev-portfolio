@@ -1,5 +1,7 @@
-import ProjectImage1 from "./FacialRecognitionProject";
-import ProjectImage2 from "./AnchoressWebSite.jpg"
+import projectImage1 from "./FacialRecognitionProject.jpg";
+import projectImage2 from "./AnchoressWebSite.jpg";
+import projectImage3 from "../src/assets/RobofriendsApp.jpg";
+// import projectImage4 from "../src/assets/GardennsWebsite.jpg";
 
 export const projects = [
     {
@@ -7,7 +9,7 @@ export const projects = [
         subtitle: "React, Node.js, PostgreSQL",
         description: 
             "An app built with React on the front end, a server built with Node.js with a secure user registration feature that is stored on a database built with PostgreSQL.  The app itself is an image uploader to identify faces using the Clarifai API",
-        image: {require:(ProjectImage1)},
+        image: projectImage1,
         link: "https://facial-recognition-app-react.herokuapp.com/"
     },
     {
@@ -15,7 +17,7 @@ export const projects = [
         subtitle: "HTML, CSS",
         description:
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: ProjectImage2,
+        image: projectImage2,
         link: "https://anchoress.ca",
       },
       {
@@ -23,15 +25,15 @@ export const projects = [
         subtitle: "React / Redux",
         description:
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./assets/RobofriendsApp.jpg",
+        image: projectImage3,
         link: "https://github.com/robalobadob/robofriends/issues",
-      },
-      {
-        title: "Client Website",
-        subtitle: "Bootstrap 5, SCSS",
-        description:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-        image: "./project-4.gif",
-        link: "https://gardenns.com",
       }
+    //   {
+    //     title: "Client Website",
+    //     subtitle: "Bootstrap 5, SCSS",
+    //     description:
+    //       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    //     image: projectImage4,
+    //     link: "https://gardenns.com",
+    //   }
 ];
