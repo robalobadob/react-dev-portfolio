@@ -37,3 +37,8 @@ export const projects = [
         link: "https://gardenns.com",
       }
 ];
+
+export const skills = [
+    "HTML",
+    "CSS"
+]
