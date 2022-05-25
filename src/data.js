@@ -1,5 +1,5 @@
-import projectImage1 from "./FacialRecognitionProject.jpg";
-import projectImage2 from "./AnchoressWebSite.jpg";
+import projectImage1 from "../src/assets/FacialRecognitionProject.jpg";
+import projectImage2 from "../src/assets/AnchoressWebSite.jpg";
 import projectImage3 from "../src/assets/RobofriendsApp.jpg";
 import projectImage4 from "../src/assets/GardennsWebsite.jpg";
 
