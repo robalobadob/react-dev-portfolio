@@ -1,7 +1,7 @@
 import projectImage1 from "./FacialRecognitionProject.jpg";
 import projectImage2 from "./AnchoressWebSite.jpg";
 import projectImage3 from "../src/assets/RobofriendsApp.jpg";
-// import projectImage4 from "../src/assets/GardennsWebsite.jpg";
+import projectImage4 from "../src/assets/GardennsWebsite.jpg";
 
 export const projects = [
     {
@@ -27,13 +27,13 @@ export const projects = [
           "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
         image: projectImage3,
         link: "https://github.com/robalobadob/robofriends/issues",
+      },
+      {
+        title: "Client Website",
+        subtitle: "Bootstrap 5, SCSS",
+        description:
+          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        image: projectImage4,
+        link: "https://gardenns.com",
       }
-    //   {
-    //     title: "Client Website",
-    //     subtitle: "Bootstrap 5, SCSS",
-    //     description:
-    //       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    //     image: projectImage4,
-    //     link: "https://gardenns.com",
-    //   }
 ];
