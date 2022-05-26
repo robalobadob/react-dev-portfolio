@@ -56,4 +56,21 @@ export const skills = [
     "Copy Writing",
     "Data Analysis",
     "Google Analytics"
+];
+
+export const testimonial = [
+    {
+        quote: 
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        image: projectImage1,
+        name: "Andrei",
+        company: "ZTM"
+    },
+    {
+        quote:
+            "Gosh wow, what a great dude and a swell developer!",
+        image: projectImage4,
+        name: "Kim Enns",
+        company: "GardEnns"
+    }
 ]
