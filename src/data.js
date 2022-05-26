@@ -39,6 +39,21 @@ export const projects = [
 ];
 
 export const skills = [
+    "Web Development",
     "HTML",
-    "CSS"
+    "CSS",
+    "Javascript",
+    "React",
+    "Redux",
+    "Node",
+    "PostgreSQL",
+    "SSH",
+    "Web Design",
+    "Figma",
+    "UX/UI",
+    "Digital Marketing",
+    "SEO",
+    "Copy Writing",
+    "Data Analysis",
+    "Google Analytics"
 ]
