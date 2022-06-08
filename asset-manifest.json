@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-dev-portfolio/static/css/main.9e82e3c1.css",
+    "main.js": "/react-dev-portfolio/static/js/main.7ed662ab.js",
+    "static/js/529.65ba1c1c.chunk.js": "/react-dev-portfolio/static/js/529.65ba1c1c.chunk.js",
+    "static/media/GardennsWebsite.jpg": "/react-dev-portfolio/static/media/GardennsWebsite.64bf95ebcf46dac79d7f.jpg",
+    "static/media/FacialRecognitionProject.jpg": "/react-dev-portfolio/static/media/FacialRecognitionProject.44722f2864f00f2a10ae.jpg",
+    "static/media/AnchoressWebSite.jpg": "/react-dev-portfolio/static/media/AnchoressWebSite.a45d11f34da7573e804c.jpg",
+    "static/media/RobofriendsApp.jpg": "/react-dev-portfolio/static/media/RobofriendsApp.4f552f3c3fd498d1d0b8.jpg",
+    "static/media/RobInterurban.jpg": "/react-dev-portfolio/static/media/RobInterurban.8e26cb9019b08cbdac0b.jpg",
+    "index.html": "/react-dev-portfolio/index.html",
+    "main.9e82e3c1.css.map": "/react-dev-portfolio/static/css/main.9e82e3c1.css.map",
+    "main.7ed662ab.js.map": "/react-dev-portfolio/static/js/main.7ed662ab.js.map",
+    "529.65ba1c1c.chunk.js.map": "/react-dev-portfolio/static/js/529.65ba1c1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e82e3c1.css",
+    "static/js/main.7ed662ab.js"
+  ]
+}
