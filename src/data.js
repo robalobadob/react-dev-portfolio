@@ -6,9 +6,9 @@ import projectImage4 from "../src/assets/GardennsWebsite.jpg";
 export const projects = [
     {
         title: "Facial Recognition App",
-        subtitle: "React, Node.js, PostgreSQL",
+        subtitle: "React, Express.js, PostgreSQL",
         description: 
-            "An app built with React on the front end, a server built with Node.js with a secure user registration feature that is stored on a database built with PostgreSQL.  The app itself is an image uploader to identify faces using the Clarifai API. It is built following a tutorial by Andrei Neagoie on zerotomastery.io",
+            "An app built with React.js on the front end, a RESTful API server built with Express.js and deployed on Heroku.  It has session management with authenticated routes, with user information and hashed passwords stored securely in a database with PostgreSQL.",
         image: projectImage1,
         link: "https://facial-recognition-app-react.herokuapp.com/"
     },
@@ -24,9 +24,9 @@ export const projects = [
         title: "Robofriends",
         subtitle: "React / Redux",
         description:
-          "An app built with React app that creates a search function within a dataset populated by an API. Built following a tutorial by Andrei Neagoie on zerotomastery.io",
+          "An app built with React app that creates a search function within a dataset populated by an API.",
         image: projectImage3,
-        link: "https://github.com/robalobadob/robofriends/issues",
+        link: "https://github.com/robalobadob/robofriends/",
       },
       {
         title: "Client Website",
