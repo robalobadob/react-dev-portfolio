@@ -14,7 +14,7 @@ export const projects = [
     },
     {
         title: "Artist Website",
-        subtitle: "HTML, CSS",
+        subtitle: "Bootstrap 5, SCSS",
         description:
           "A multipage Website for a band, built using Bootstrap and SCSS.",
         image: projectImage2,
@@ -40,9 +40,7 @@ export const projects = [
 
 export const skills = [
     "Web Development",
-    "HTML",
-    "CSS",
-    "Javascript",
+    "HTML/CSS/JS",
     "React",
     "PostgreSQL",
     "Web Design",
