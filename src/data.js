@@ -14,7 +14,7 @@ export const projects = [
     },
     {
         title: "Artist Website",
-        subtitle: "Bootstrap 5, SCSS",
+        subtitle: "Bootstrap 5, SCSS, Parcel",
         description:
           "A multipage Website for a band, built using Bootstrap and SCSS before bundling with Parcel. Hosted via cPanel. There are multiple iframes pulled from Bandcamp and YouTube. Site also includes a hidden page that must be linked to directly that is also blocked from search indexing.",
         image: projectImage2,
@@ -24,7 +24,7 @@ export const projects = [
         title: "Robofriends",
         subtitle: "React / Redux, Tachyons",
         description:
-          "A stateful app built initially with React.js before being reformated with Redux that offers a search function with example datasets provided by multiple APIs. Styled using Tachyons CSS.",
+          "A stateful app built initially with React.js before being reformated with Redux that offers a search function for example datasets provided by multiple APIs. Styled using Tachyons CSS.",
         image: projectImage3,
         link: "https://github.com/robalobadob/robofriends/",
       },

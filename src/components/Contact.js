@@ -32,7 +32,7 @@ export default function Contact() {
                     netflify
                     name="contact"
                     onSubmit={handleSubmit}
-                    className="flex flex-col md:ml-auto md:py-8 mt-8 md:mt-0 content-center max-w-1/2">
+                    className="flex flex-col md:ml-auto md:py-8 mt-8 md:mt-0">
                     
                     <div className="text-center mb-20">
                         <PlusCircleIcon className="w-10 inline-block mb-4 text-orange-400" />
