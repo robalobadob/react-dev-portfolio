@@ -8,7 +8,7 @@ export const projects = [
         title: "Facial Recognition App",
         subtitle: "React, Express.js, PostgreSQL",
         description: 
-            "An app built with React.js on the front end, a RESTful API server built with Express.js and deployed on Heroku.  It has session management with authenticated routes, with user information and hashed passwords stored securely in a database with PostgreSQL.",
+            "An app built with React.js on the front end, a RESTful API server built with Express.js and deployed on Heroku. It has session management with authenticated routes, with user information and hashed passwords stored securely in a database with PostgreSQL.",
         image: projectImage1,
         link: "https://facial-recognition-app-react.herokuapp.com/"
     },
@@ -16,15 +16,15 @@ export const projects = [
         title: "Artist Website",
         subtitle: "Bootstrap 5, SCSS",
         description:
-          "A multipage Website for a band, built using Bootstrap and SCSS.",
+          "A multipage Website for a band, built using Bootstrap and SCSS before bundling with Parcel. Hosted via cPanel. There are multiple iframes pulled from Bandcamp and YouTube. Site also includes a hidden page that must be linked to directly that is also blocked from search indexing.",
         image: projectImage2,
         link: "https://anchoress.ca",
       },
       {
         title: "Robofriends",
-        subtitle: "React / Redux",
+        subtitle: "React / Redux, Tachyons",
         description:
-          "An app built with React app that creates a search function within a dataset populated by an API.",
+          "A stateful app built initially with React.js before being reformated with Redux that offers a search function with example datasets provided by multiple APIs. Styled using Tachyons CSS.",
         image: projectImage3,
         link: "https://github.com/robalobadob/robofriends/",
       },
@@ -32,7 +32,7 @@ export const projects = [
         title: "Client Website",
         subtitle: "Bootstrap 5, SCSS",
         description:
-          "A small business website for a client, built using Bootstrap and SCSS.",
+          "A small business website for a client, built using Bootstrap and SCSS before bundling with Parcel.",
         image: projectImage4,
         link: "https://gardenns.com",
       }
