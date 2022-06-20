@@ -1,4 +1,4 @@
-import { CodeIcon } from "@heroicons/react/solid";
+import { HiCode } from "react-icons/hi"
 import React from 'react';
 import { projects } from "../data"
 
@@ -7,7 +7,7 @@ export default function Projects() {
         <section id="projects" className="body-font">
             <div className="container px-5 py-10 mx-auto text-center lg:px-40">
                 <div className="flex flex-col w-full mb-20">
-                    <CodeIcon className="mx-auto inline-block w-10 mb-4 text-orange-400" />
+                    <HiCode className="mx-auto inline-block w-10 mb-4 text-orange-400" />
                     <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-teal-900">
                         Apps I've Built
                     </h1>

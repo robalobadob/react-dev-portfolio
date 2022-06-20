@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a9e70d8b.css",
-    "main.js": "/static/js/main.fcdd9d03.js",
+    "main.css": "/static/css/main.4c195209.css",
+    "main.js": "/static/js/main.4689024d.js",
     "static/js/529.65ba1c1c.chunk.js": "/static/js/529.65ba1c1c.chunk.js",
     "static/media/GardennsWebsite.jpg": "/static/media/GardennsWebsite.64bf95ebcf46dac79d7f.jpg",
     "static/media/FacialRecognitionProject.jpg": "/static/media/FacialRecognitionProject.44722f2864f00f2a10ae.jpg",
@@ -9,12 +9,12 @@
     "static/media/RobofriendsApp.jpg": "/static/media/RobofriendsApp.4f552f3c3fd498d1d0b8.jpg",
     "static/media/RobInterurban.jpg": "/static/media/RobInterurban.8e26cb9019b08cbdac0b.jpg",
     "index.html": "/index.html",
-    "main.a9e70d8b.css.map": "/static/css/main.a9e70d8b.css.map",
-    "main.fcdd9d03.js.map": "/static/js/main.fcdd9d03.js.map",
+    "main.4c195209.css.map": "/static/css/main.4c195209.css.map",
+    "main.4689024d.js.map": "/static/js/main.4689024d.js.map",
     "529.65ba1c1c.chunk.js.map": "/static/js/529.65ba1c1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9e70d8b.css",
-    "static/js/main.fcdd9d03.js"
+    "static/css/main.4c195209.css",
+    "static/js/main.4689024d.js"
   ]
 }
