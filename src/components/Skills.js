@@ -7,7 +7,7 @@ export default function Skills() {
         <section id="skills">
             <div className="container px-5 py-10 mx-auto">
                 <div className="text-center mb-20">
-                    <HiChip className="w-10 inline-block mb-4 text-orange-400" />
+                    <HiChip className="w-10 inline-block mb-4 text-6xl text-orange-400" />
                     <h1 className="sm:text-4xl text-3xl font-medium title-font text-teal-900 mb-4">
                         Skills &amp; Technologies
                     </h1>

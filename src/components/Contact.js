@@ -35,7 +35,7 @@ export default function Contact() {
                     className="flex flex-col md:ml-auto md:py-8 mt-8 md:mt-0">
                     
                     <div className="text-center mb-20">
-                        <HiPlusCircle className="w-10 inline-block mb-4 text-orange-400" />
+                        <HiPlusCircle className="w-10 inline-block mb-4 text-6xl text-orange-400" />
                         <h1 className="sm:text-4xl text-3xl font-medium title-font text-teal-900 mb-4">
                             Hire Me
                         </h1>
