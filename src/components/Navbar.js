@@ -6,7 +6,7 @@ export default function Navbar() {
         <header className="bg-teal-800 md:sticky top-0 z-10">
             <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
                 <a className="title-font font-medium text-orange-600 mb-4 md:mb-0">
-                    <a href="#about" className="ml-3 text-xl">
+                    <a href="#about" className="ml-3 text-xl hover:text-orange-300">
                         Rob Hoover
                     </a>
                 </a>
@@ -23,7 +23,7 @@ export default function Navbar() {
                 </nav>
                 <a
                     href="#contact"
-                    className="inline-flex items-center bg-orange-600 border-0 py-1 px-3 focus:outline-none hover:bg-orange-800 rounded text-base mt-4 md:mt-0">
+                    className="inline-flex items-center bg-orange-600 border-0 py-1 px-3 focus:outline-none hover:bg-orange-300 rounded text-base mt-4 md:mt-0">
                     Hire Me
                     <HiArrowRight className="w-4 h-4 ml-1" />
                 </a>
