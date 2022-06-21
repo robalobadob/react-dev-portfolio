@@ -29,7 +29,7 @@ export default function Contact() {
         <section id="contact" className="relative">
             <div className="container px-5 py-5 mx-auto flex sm:flex-nowrap flex-wrap justify-center">
                 <form
-                    netflify="true"
+                    netflify
                     name="contact"
                     onSubmit={handleSubmit}
                     className="flex flex-col md:mx-auto md:py-8 mt-8 md:mt-0">
