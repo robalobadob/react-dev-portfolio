@@ -1,7 +1,8 @@
 import projectImage1 from "../src/assets/FacialRecognitionProject.jpg";
 import projectImage2 from "../src/assets/AnchoressWebSite.jpg";
 import projectImage3 from "../src/assets/RobofriendsApp.jpg";
-import projectImage4 from "../src/assets/GardennsWebsite.jpg";
+import projectImage4 from "../src/assets/EarlyOnsetRecordsSite.jpg";
+import projectImage5 from "../src/assets/GardennsWebsite.jpg";
 
 export const projects = [
     {
@@ -14,9 +15,9 @@ export const projects = [
     },
     {
         title: "Artist Website",
-        subtitle: "Bootstrap 5, SCSS, Parcel",
+        subtitle: "Bootstrap 5, SCSS",
         description:
-          "A multipage Website for a band, built using Bootstrap and SCSS before bundling with Parcel. Hosted via cPanel. There are multiple iframes pulled from Bandcamp and YouTube. Site also includes a hidden page that must be linked to directly that is also blocked from search indexing.",
+          "A multipage website for a band, built using Bootstrap and SCSS before bundling with Parcel. Hosted via cPanel. There are multiple iframes pulled from Bandcamp and YouTube. Site also includes a hidden page that must be linked to directly that is also blocked from search indexing.",
         image: projectImage2,
         link: "https://anchoress.ca",
       },
@@ -29,11 +30,19 @@ export const projects = [
         link: "https://github.com/robalobadob/robofriends/",
       },
       {
+        title: "Record Label Website",
+        subtitle: "Shopify, Liquid",
+        description:
+          "A startup record label ecommerce platform by artists for artists, built with a Shopify template and then customized with Liquid. Primarily based around a vinyl subscription model with additional merchandise items for individual sale. Also set up a private Discord for artists and admin.",
+        image: projectImage4,
+        link: "https://earlyonsetrecords.com/",
+      },
+      {
         title: "Client Website",
         subtitle: "Bootstrap 5, SCSS",
         description:
           "A small business website for a client, built using Bootstrap and SCSS before bundling with Parcel.",
-        image: projectImage4,
+        image: projectImage5,
         link: "https://gardenns.com",
       }
 ];
@@ -54,13 +63,20 @@ export const testimonial = [
         quote: 
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
         image: projectImage1,
-        name: "Andrei",
-        company: "ZTM"
+        name: "Airrick Dunfield",
+        company: "BCIT"
+    },
+    {
+      quote:
+          "Gosh wow, what a great dude and a swell developer!",
+      image: projectImage4,
+      name: "Ryan Dolejsi",
+      company: "Early Onset Records"
     },
     {
         quote:
             "Gosh wow, what a great dude and a swell developer!",
-        image: projectImage4,
+        image: projectImage5,
         name: "Kim Enns",
         company: "GardEnns"
     }
