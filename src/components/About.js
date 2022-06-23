@@ -21,7 +21,7 @@ export default function About() {
             My Digital Marketing certificate helps me build your site from the ground up with SEO in mind.  
           </p>
           <p className="mb-8 leading-relaxed">
-            In my free time, I like to take my two dogs on hikes in the mountains and at night I sing in a punk band.
+            In my free time, I like to take my <a href="https://www.instagram.com/adventuresofcoach/" target="_blank" rel="noreferrer" className="hover:underline hover:decoration-orange-400 hover:decoration-dashed">two</a> <a href="https://www.instagram.com/goosey.thechocolatelab/" target="_blank" rel="noreferrer" className="hover:underline hover:decoration-orange-400 hover:decoration-dotted"> dogs</a> on hikes in the mountains and at night I sing in a <a href="https://anchoress.ca" target="_blank" rel="noreferrer" className="hover:underline hover:decoration-orange-400 hover:decoration-wavy">punk band</a>.
           </p>
           <div className="flex justify-center">
             <a
