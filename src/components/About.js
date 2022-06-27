@@ -12,7 +12,7 @@ export default function About() {
             I love to build websites.
           </p>
           <p className="mb-3 leading-relaxed">
-            I'm a front end web developer and designer based in Vancouver, BC.  
+            I'm a front-end web developer and designer based in Vancouver, BC.  
           </p>
           <p className="mb-3 leading-relaxed">
             I like to use React to build front end apps, but I've also built back end structures from Node servers to SQL databases.  
