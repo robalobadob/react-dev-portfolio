@@ -15,7 +15,7 @@ export default function About() {
             I'm a front-end web developer and designer based in Vancouver, BC.  
           </p>
           <p className="mb-3 leading-relaxed">
-            I like to use React to build front end apps, but I've also built back end structures from Node servers to SQL databases.  
+            I like to use React to build the front end of apps, but I've also built back end structures from RESTful API servers to SQL databases.  
           </p>
           <p className="mb-3 leading-relaxed">
             My Digital Marketing certificate helps me build your site from the ground up with SEO in mind.  
