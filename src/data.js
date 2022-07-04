@@ -51,6 +51,7 @@ export const skills = [
     "Web Development",
     "HTML/CSS/JS",
     "React",
+    "Testing/Debugging",
     "PostgreSQL",
     "Web Design",
     "UX/UI",
