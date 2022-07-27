@@ -35,8 +35,8 @@ export default function Contact() {
                     className="flex flex-col md:mx-auto md:py-8 mt-8 md:mt-0">
                     
                     <div className="text-center mb-10">
-                        <HiPlusCircle className="w-10 inline-block mb-4 text-6xl text-orange-400" />
-                        <h1 className="sm:text-4xl text-3xl font-medium title-font text-teal-900 mb-4">
+                        <HiPlusCircle className="w-10 inline-block mb-4 text-6xl text-npb" />
+                        <h1 className="sm:text-5xl text-4xl font-medium title-font text-steel mb-4">
                             Hire Me
                         </h1>
                         <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
@@ -52,7 +52,7 @@ export default function Contact() {
                             type="text"
                             id="name"
                             name="name"
-                            className="w-full bg-gray-500 rounded border border-gray-700 focus:border-orange-500 focus:ring-2 focus:ring-orange-300 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+                            className="w-full bg-gray-500 rounded border border-gray-700 focus:border-npb focus:ring-2 focus:ring-steel text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                             onChange={(e) => setName(e.target.value)}
                         />
                     </div>
@@ -64,7 +64,7 @@ export default function Contact() {
                             type="email"
                             id="email"
                             name="email"
-                            className="w-full bg-gray-500 rounded border border-gray-700 focus:border-orange-500 focus:ring-2 focus:ring-orange-300 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+                            className="w-full bg-gray-500 rounded border border-gray-700 focus:border-npb focus:ring-2 focus:ring-steel text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
                             onChange={(e) => setEmail(e.target.value)}
                         />
                     </div>
@@ -75,13 +75,13 @@ export default function Contact() {
                         <textarea
                             id="message"
                             name="message"
-                            className="w-full bg-gray-500 rounded border border-gray-700 focus:border-orange-500 focus:ring-2 focus:ring-orange-300 text-base outline-none text-gray-100 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
+                            className="w-full bg-gray-500 rounded border border-gray-700 focus:border-npb focus:ring-2 focus:ring-steel text-base outline-none text-gray-100 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
                             onChange={(e) => setMessage(e.target.value)}
                         />
                     </div>
                     <button
                         type="submit"
-                        className="text-white bg-orange-600 border-0 py-2 px-6 focus:outline-none hover:bg-orange-800 rounded text-lg">
+                        className="text-black bg-npb border-0 py-2 px-6 focus:outline-steel hover:bg-blue-300 rounded text-lg">
                         Submit
                     </button>
                 </form>
