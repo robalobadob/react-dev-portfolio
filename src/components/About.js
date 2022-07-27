@@ -8,7 +8,7 @@ export default function About() {
         <p className="sm:text-3xl mb-2 font-medium text-teal-900">
             Hi there! 👋  My name is
           </p>
-          <h1 className="text-7xl mb-2 text-[150px] text-teal-900">
+          <h1 className="mb-2 sm:text-[75px] text-[150px] text-teal-900">
              Rob Hoover
           </h1>
           <p className="sm:text-3xl mb-5 font-medium text-teal-900">
