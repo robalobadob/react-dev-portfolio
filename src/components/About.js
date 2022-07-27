@@ -5,8 +5,11 @@ export default function About() {
     <section id="about">
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow w-2/3 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-          <h1 className="sm:text-4xl text-3xl mb-2 font-semibold text-teal-900">
-            Hi there, I'm Rob.
+        <p className="sm:text-3xl mb-2 font-medium text-teal-900">
+            Hi there! 👋  My name is
+          </p>
+          <h1 className="text-7xl mb-2 text-[150px] text-teal-900">
+             Rob Hoover
           </h1>
           <p className="sm:text-3xl mb-5 font-medium text-teal-900">
             I love to build websites.
@@ -40,7 +43,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded h-50"
             alt="hero"
-            src={require("..//assets/rob.jpg")}
+            src={require("../assets/rob.jpg")}
           />
         </div>
       </div>
