@@ -37,7 +37,7 @@ export default function Contact() {
                     <div className="text-center mb-10">
                         <HiPlusCircle className="w-10 inline-block mb-4 text-6xl text-npb" />
                         <h1 className="sm:text-5xl text-4xl font-medium title-font text-steel mb-4">
-                            Hire Me
+                            Work With Me
                         </h1>
                         <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
                             Let me know if I can help you with your newest project.

@@ -12,7 +12,7 @@ export default function About() {
              Rob Hoover
           </h1>
           <p className="mb-3 leading-relaxed">
-            I'm a front-end web developer and designer based in Vancouver, BC.  
+            I am a front-end web developer and designer based in Vancouver, BC.  
           </p>
           <p className="mb-3 leading-relaxed">
             I like to use React to build the front end of apps, but I've also built back end structures from RESTful API servers to SQL databases.  
