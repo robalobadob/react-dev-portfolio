@@ -12,13 +12,7 @@ export default function About() {
              Rob Hoover
           </h1>
           <p className="mb-3 leading-relaxed">
-            I am a front-end web developer and designer based in Vancouver, BC.  
-          </p>
-          <p className="mb-3 leading-relaxed">
-            I like to use React to build the front end of apps, but I've also built back end structures from RESTful API servers to SQL databases.  
-          </p>
-          <p className="mb-3 leading-relaxed">
-            My Digital Marketing certificate helps me build your site from the ground up with SEO in mind.  
+           I'm a front-end web developer and designer based in Vancouver, BC with experience handling complex React and HTML / CSS coding, design and extensions to meet organization's front-facing internet needs. Detail-oriented collaboration with others to define project expectations and demand. My Digital Marketing certificate helps me build your site from the ground up with SEO in mind. 
           </p>
           <p className="mb-8 leading-relaxed">
             In my free time, I like to take my <a href="https://www.instagram.com/adventuresofcoach/" target="_blank" rel="noreferrer" className="underline decoration-steel decoration-wavy">two</a> <a href="https://www.instagram.com/goosey.thechocolatelab/" target="_blank" rel="noreferrer" className="underline decoration-steel decoration-wavy"> dogs</a> on hikes in the mountains and at night I sing in a <a href="https://anchoress.ca" target="_blank" rel="noreferrer" className="underline decoration-steel decoration-wavy">punk band</a>.
