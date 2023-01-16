@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e1c2b3e.css",
-    "main.js": "/static/js/main.15700d14.js",
+    "main.css": "/static/css/main.402e9903.css",
+    "main.js": "/static/js/main.c607a516.js",
     "static/js/529.65ba1c1c.chunk.js": "/static/js/529.65ba1c1c.chunk.js",
     "static/media/AnchoressWebSite.jpg": "/static/media/AnchoressWebSite.0d327f201f5a1904309f.jpg",
     "static/media/EarlyOnsetRecordsSite.jpg": "/static/media/EarlyOnsetRecordsSite.7cf9b0b4adde1b68c1bd.jpg",
@@ -10,12 +10,12 @@
     "static/media/RobofriendsApp.jpg": "/static/media/RobofriendsApp.062b273d837ca834cb18.jpg",
     "static/media/rob.jpg": "/static/media/rob.0735c28ff3cac7248ed0.jpg",
     "index.html": "/index.html",
-    "main.5e1c2b3e.css.map": "/static/css/main.5e1c2b3e.css.map",
-    "main.15700d14.js.map": "/static/js/main.15700d14.js.map",
+    "main.402e9903.css.map": "/static/css/main.402e9903.css.map",
+    "main.c607a516.js.map": "/static/js/main.c607a516.js.map",
     "529.65ba1c1c.chunk.js.map": "/static/js/529.65ba1c1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e1c2b3e.css",
-    "static/js/main.15700d14.js"
+    "static/css/main.402e9903.css",
+    "static/js/main.c607a516.js"
   ]
 }
