@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.402e9903.css",
-    "main.js": "/static/js/main.c607a516.js",
-    "static/js/529.65ba1c1c.chunk.js": "/static/js/529.65ba1c1c.chunk.js",
+    "main.css": "/static/css/main.4708eb6c.css",
+    "main.js": "/static/js/main.3c4e4041.js",
+    "static/js/510.966f7750.chunk.js": "/static/js/510.966f7750.chunk.js",
     "static/media/AnchoressWebSite.jpg": "/static/media/AnchoressWebSite.0d327f201f5a1904309f.jpg",
     "static/media/EarlyOnsetRecordsSite.jpg": "/static/media/EarlyOnsetRecordsSite.7cf9b0b4adde1b68c1bd.jpg",
     "static/media/GardennsWebsite.jpg": "/static/media/GardennsWebsite.121e635ba2a37c0527c9.jpg",
     "static/media/FacialRecognitionProject.jpg": "/static/media/FacialRecognitionProject.9ec56e919bd71914a3f1.jpg",
     "static/media/RobofriendsApp.jpg": "/static/media/RobofriendsApp.062b273d837ca834cb18.jpg",
-    "static/media/rob.jpg": "/static/media/rob.0735c28ff3cac7248ed0.jpg",
+    "static/media/rob.jpg": "/static/media/rob.347bd60d9993a1a88449.jpg",
     "index.html": "/index.html",
-    "main.402e9903.css.map": "/static/css/main.402e9903.css.map",
-    "main.c607a516.js.map": "/static/js/main.c607a516.js.map",
-    "529.65ba1c1c.chunk.js.map": "/static/js/529.65ba1c1c.chunk.js.map"
+    "main.4708eb6c.css.map": "/static/css/main.4708eb6c.css.map",
+    "main.3c4e4041.js.map": "/static/js/main.3c4e4041.js.map",
+    "510.966f7750.chunk.js.map": "/static/js/510.966f7750.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.402e9903.css",
-    "static/js/main.c607a516.js"
+    "static/css/main.4708eb6c.css",
+    "static/js/main.3c4e4041.js"
   ]
 }
