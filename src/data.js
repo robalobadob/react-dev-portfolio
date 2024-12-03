@@ -4,7 +4,6 @@ import projectImage3 from "../src/assets/Evoke.png";
 import projectImage4 from "../src/assets/AnchoressWebSite.jpg";
 import projectImage5 from "../src/assets/Sparrow-MD.png";
 import projectImage6 from "../src/assets/EarlyOnsetRecordsSite.jpg";
-import projectImage7 from "../src/assets/GardennsWebsite.jpg";
 
 export const projects = [
   {
@@ -29,7 +28,7 @@ export const projects = [
     link: "https://www.evoke.ca/",
   },
   {
-    title: "Artist Website",
+    title: "Anchoress",
     subtitle: "Bootstrap 5, SCSS",
     description: "A multipage website for a band, built using Bootstrap and SCSS before bundling with Parcel. Hosted via cPanel. There are multiple iframes pulled from Bandcamp and YouTube. Site also includes a hidden page that must be linked to directly that is also blocked from search indexing.",
     image: projectImage4,
@@ -43,18 +42,11 @@ export const projects = [
     link: "https://sparrowmd.ca/",
   },
   {
-    title: "Record Label Website",
+    title: "Early Onset Records",
     subtitle: "Shopify, Liquid",
     description: "A startup record label ecommerce platform by artists for artists, built with a Shopify template and then customized with Liquid. Primarily based around a vinyl subscription model with additional merchandise items for individual sale. Also set up a private Discord for artists and admin.",
     image: projectImage6,
     link: "https://earlyonsetrecords.com/",
-  },
-  {
-    title: "Client Website",
-    subtitle: "Bootstrap 5, SCSS",
-    description: "A small business website for a client, built using Bootstrap and SCSS before bundling with Parcel.",
-    image: projectImage7,
-    link: "https://gardenns.com",
   },
 ];
 
