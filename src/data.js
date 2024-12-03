@@ -2,7 +2,7 @@ import projectImage1 from "../src/assets/Visual-Capitalist.png";
 import projectImage2 from "../src/assets/The-Sound.png";
 import projectImage3 from "../src/assets/Evoke.png";
 import projectImage4 from "../src/assets/AnchoressWebSite.jpg";
-import projectImage5 from "../src/assets/RobofriendsApp.jpg";
+import projectImage5 from "../src/assets/Sparrow-MD.png";
 import projectImage6 from "../src/assets/EarlyOnsetRecordsSite.jpg";
 import projectImage7 from "../src/assets/GardennsWebsite.jpg";
 
@@ -26,7 +26,7 @@ export const projects = [
     subtitle: "JS, Liquid, CSS",
     description: "The Sound is an Vancouver-based interior design and graphic agency. I have worked on a variety of client projects from architectural firms to photographer portfolios to help them reach their full potential.",
     image: projectImage3,
-    link: "https://www.thesoundhq.com/",
+    link: "https://www.evoke.ca/",
   },
   {
     title: "Artist Website",
@@ -36,11 +36,11 @@ export const projects = [
     link: "https://anchoress.ca",
   },
   {
-    title: "Robofriends",
-    subtitle: "React / Redux, Tachyons",
-    description: "A stateful app built initially with React.js before being reformated with Redux that offers a search function for example datasets provided by multiple APIs. Styled using Tachyons CSS.",
+    title: "Sparrow MD",
+    subtitle: "PHP, JS, MySQL",
+    description: "A skin clinic and aestheticians office in Vancouver. I perform routine audits of site performance and ensure medical grade security.",
     image: projectImage5,
-    link: "https://github.com/robalobadob/robofriends/",
+    link: "https://sparrowmd.ca/",
   },
   {
     title: "Record Label Website",
