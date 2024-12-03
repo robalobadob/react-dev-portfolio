@@ -12,7 +12,7 @@ export default function Navbar() {
         </h1>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-1 md:border-gray-700 flex flex-wrap items-center text-base text-caput justify-center">
           <a href="#projects" className="mr-5 hover:opacity-50">
-            Past Work
+            Projects
           </a>
           <a href="#skills" className="mr-5 hover:opacity-50">
             Skills
